@@ -1,0 +1,26 @@
+======================================================================
+ RAPPORT DE VALIDATION POST-MIGRATION -- 2026-03-20 10:07:39
+======================================================================
+
+--- 1. VÉRIFICATION DES VOLUMES ---
+ - etablissements            :    15 lignes présentes
+ - techniciens               :    50 lignes présentes
+ - equipements               :   600 lignes présentes
+ - interventions             :   400 lignes présentes
+ - equipements_defectueux    :    16 lignes présentes
+
+--- 2. VÉRIFICATION DE L'UNICITÉ (Clés & Numéros de série) ---
+ - Equipements - Numero de Série       : OK
+ - Equipements - Clé Primaire          : OK
+ - Interventions - Clé Primaire        : OK
+ - Etablissements - Clé Primaire       : OK
+ - Techniciens - Clé Primaire          : OK
+
+--- 3. VÉRIFICATION DES RELATIONS (Clés étrangères) ---
+ - Equipements -> Etablissements       : ✓ INTACT
+ - Interventions -> Equipements        : ✓ INTACT
+ - Interventions -> Techniciens        : ✓ INTACT
+
+======================================================================
+CONCLUSION : Examen de post-migration de la BDD achevé.
+======================================================================

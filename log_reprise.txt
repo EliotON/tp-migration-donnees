@@ -1,0 +1,422 @@
+LOG DE REPRISE DES ANOMALIES - 2026-03-20 10:16:24.354523
+============================================================
+
+ERREUR ISOLÉE - Ligne ID: 9953 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01)
+INFO CORRECTION - ID: 1569 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 1569 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01)
+ERREUR ISOLÉE - Ligne ID: 7612 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+ERREUR ISOLÉE - Ligne ID: 9402 sautée car : Le prix ne peut être égal à 0
+ERREUR ISOLÉE - Ligne ID: 3421 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01)
+INFO CORRECTION - ID: 5751 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 5751 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01)
+INFO CORRECTION - ID: 3922 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 3922 sautée car : Format de date hors calendrier (2023-15-01)
+ERREUR ISOLÉE - Ligne ID: 4441 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01), Le prix ne peut être égal à 0
+ERREUR ISOLÉE - Ligne ID: 7395 sautée car : Format de date hors calendrier (2023-15-01)
+ERREUR ISOLÉE - Ligne ID: 8236 sautée car : Nom ou Catégorie manquant (impossible à corriger)
+ERREUR ISOLÉE - Ligne ID: 3324 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01)
+ERREUR ISOLÉE - Ligne ID: 2080 sautée car : Nom ou Catégorie manquant (impossible à corriger)
+INFO CORRECTION - ID: 2672 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 2672 sautée car : Nom ou Catégorie manquant (impossible à corriger)
+INFO CORRECTION - ID: 3066 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 3066 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01)
+ERREUR ISOLÉE - Ligne ID: 6694 sautée car : Nom ou Catégorie manquant (impossible à corriger)
+ERREUR ISOLÉE - Ligne ID: 7637 sautée car : Format de date hors calendrier (2023-15-01), Le prix ne peut être égal à 0
+ERREUR ISOLÉE - Ligne ID: 4807 sautée car : Le prix ne peut être égal à 0
+INFO CORRECTION - ID: 6110 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 6110 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+ERREUR ISOLÉE - Ligne ID: 5107 sautée car : Nom ou Catégorie manquant (impossible à corriger), Le prix ne peut être égal à 0
+INFO CORRECTION - ID: 1082 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 1082 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01)
+ERREUR ISOLÉE - Ligne ID: 5569 sautée car : Format de date hors calendrier (2023-15-01), Le prix ne peut être égal à 0
+INFO CORRECTION - ID: 1459 (Prix -50.0 corrigé en 50.0)
+SUCCÈS - Ligne ID: 1459 prête à être réinjectée.
+ERREUR BDD - Impossible d'insérer ID: 1459 : (1062, "Duplicate entry '1459' for key 'PRIMARY'")
+ERREUR ISOLÉE - Ligne ID: 2513 sautée car : Nom ou Catégorie manquant (impossible à corriger)
+SUCCÈS - Ligne ID: 5534 prête à être réinjectée.
+ERREUR BDD - Impossible d'insérer ID: 5534 : (1062, "Duplicate entry '5534' for key 'PRIMARY'")
+ERREUR ISOLÉE - Ligne ID: 1725 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01), Le prix ne peut être égal à 0
+INFO CORRECTION - ID: 3510 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 3510 sautée car : Nom ou Catégorie manquant (impossible à corriger)
+INFO CORRECTION - ID: 8043 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 8043 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+ERREUR ISOLÉE - Ligne ID: 4384 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan), Le prix ne peut être égal à 0
+ERREUR ISOLÉE - Ligne ID: 2726 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01)
+ERREUR ISOLÉE - Ligne ID: 4800 sautée car : Format de date hors calendrier (nan)
+ERREUR ISOLÉE - Ligne ID: 4942 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan), Le prix ne peut être égal à 0
+INFO CORRECTION - ID: 6629 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 6629 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+INFO CORRECTION - ID: 3211 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 3211 sautée car : Nom ou Catégorie manquant (impossible à corriger)
+ERREUR ISOLÉE - Ligne ID: 4695 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+ERREUR ISOLÉE - Ligne ID: 9327 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01), Le prix ne peut être égal à 0
+ERREUR ISOLÉE - Ligne ID: 8170 sautée car : Nom ou Catégorie manquant (impossible à corriger), Le prix ne peut être égal à 0
+ERREUR ISOLÉE - Ligne ID: 8289 sautée car : Nom ou Catégorie manquant (impossible à corriger), Le prix ne peut être égal à 0
+ERREUR ISOLÉE - Ligne ID: 5015 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01), Le prix ne peut être égal à 0
+SUCCÈS - Ligne ID: 2276 prête à être réinjectée.
+ERREUR BDD - Impossible d'insérer ID: 2276 : (1062, "Duplicate entry '2276' for key 'PRIMARY'")
+ERREUR ISOLÉE - Ligne ID: 1969 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01), Le prix ne peut être égal à 0
+ERREUR ISOLÉE - Ligne ID: 7442 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan), Le prix ne peut être égal à 0
+INFO CORRECTION - ID: 7901 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 7901 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01)
+ERREUR ISOLÉE - Ligne ID: 6734 sautée car : Format de date hors calendrier (nan), Le prix ne peut être égal à 0
+SUCCÈS - Ligne ID: 9857 prête à être réinjectée.
+ERREUR BDD - Impossible d'insérer ID: 9857 : (1062, "Duplicate entry '9857' for key 'PRIMARY'")
+INFO CORRECTION - ID: 8649 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 8649 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+INFO CORRECTION - ID: 8200 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 8200 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+ERREUR ISOLÉE - Ligne ID: 1824 sautée car : Nom ou Catégorie manquant (impossible à corriger), Le prix ne peut être égal à 0
+ERREUR ISOLÉE - Ligne ID: 2508 sautée car : Format de date hors calendrier (2023-15-01), Le prix ne peut être égal à 0
+INFO CORRECTION - ID: 6452 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 6452 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01)
+INFO CORRECTION - ID: 7456 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 7456 sautée car : Nom ou Catégorie manquant (impossible à corriger)
+ERREUR ISOLÉE - Ligne ID: 9654 sautée car : Nom ou Catégorie manquant (impossible à corriger), Le prix ne peut être égal à 0
+ERREUR ISOLÉE - Ligne ID: 6511 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+ERREUR ISOLÉE - Ligne ID: 9578 sautée car : Nom ou Catégorie manquant (impossible à corriger)
+SUCCÈS - Ligne ID: 8571 prête à être réinjectée.
+ERREUR BDD - Impossible d'insérer ID: 8571 : (1062, "Duplicate entry '8571' for key 'PRIMARY'")
+INFO CORRECTION - ID: 7123 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 7123 sautée car : Nom ou Catégorie manquant (impossible à corriger)
+INFO CORRECTION - ID: 9443 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 9443 sautée car : Format de date hors calendrier (nan)
+ERREUR ISOLÉE - Ligne ID: 3097 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01), Le prix ne peut être égal à 0
+INFO CORRECTION - ID: 4113 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 4113 sautée car : Nom ou Catégorie manquant (impossible à corriger)
+ERREUR ISOLÉE - Ligne ID: 6163 sautée car : Nom ou Catégorie manquant (impossible à corriger), Le prix ne peut être égal à 0
+ERREUR ISOLÉE - Ligne ID: 5657 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+SUCCÈS - Ligne ID: 4341 prête à être réinjectée.
+ERREUR BDD - Impossible d'insérer ID: 4341 : (1062, "Duplicate entry '4341' for key 'PRIMARY'")
+ERREUR ISOLÉE - Ligne ID: 1397 sautée car : Format de date hors calendrier (2023-15-01), Le prix ne peut être égal à 0
+INFO CORRECTION - ID: 6805 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 6805 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01)
+ERREUR ISOLÉE - Ligne ID: 2805 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01)
+ERREUR ISOLÉE - Ligne ID: 3116 sautée car : Format de date hors calendrier (2023-15-01)
+ERREUR ISOLÉE - Ligne ID: 6605 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+ERREUR ISOLÉE - Ligne ID: 3142 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01), Le prix ne peut être égal à 0
+ERREUR ISOLÉE - Ligne ID: 5566 sautée car : Format de date hors calendrier (nan), Le prix ne peut être égal à 0
+INFO CORRECTION - ID: 3371 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 3371 sautée car : Nom ou Catégorie manquant (impossible à corriger)
+INFO CORRECTION - ID: 1846 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 1846 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+ERREUR ISOLÉE - Ligne ID: 9458 sautée car : Format de date hors calendrier (2023-15-01)
+INFO CORRECTION - ID: 6417 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 6417 sautée car : Format de date hors calendrier (nan)
+ERREUR ISOLÉE - Ligne ID: 2913 sautée car : Nom ou Catégorie manquant (impossible à corriger)
+ERREUR ISOLÉE - Ligne ID: 7007 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01)
+INFO CORRECTION - ID: 2023 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 2023 sautée car : Nom ou Catégorie manquant (impossible à corriger)
+INFO CORRECTION - ID: 6339 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 6339 sautée car : Nom ou Catégorie manquant (impossible à corriger)
+INFO CORRECTION - ID: 8454 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 8454 sautée car : Format de date hors calendrier (2023-15-01)
+ERREUR ISOLÉE - Ligne ID: 2418 sautée car : Nom ou Catégorie manquant (impossible à corriger)
+ERREUR ISOLÉE - Ligne ID: 8888 sautée car : Nom ou Catégorie manquant (impossible à corriger), Le prix ne peut être égal à 0
+ERREUR ISOLÉE - Ligne ID: 6058 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan), Le prix ne peut être égal à 0
+INFO CORRECTION - ID: 7841 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 7841 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01)
+ERREUR ISOLÉE - Ligne ID: 7329 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01), Le prix ne peut être égal à 0
+INFO CORRECTION - ID: 4933 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 4933 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+INFO CORRECTION - ID: 6425 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 6425 sautée car : Format de date hors calendrier (2023-15-01)
+INFO CORRECTION - ID: 1722 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 1722 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+ERREUR ISOLÉE - Ligne ID: 5355 sautée car : Nom ou Catégorie manquant (impossible à corriger), Le prix ne peut être égal à 0
+INFO CORRECTION - ID: 1539 (Prix -50.0 corrigé en 50.0)
+SUCCÈS - Ligne ID: 1539 prête à être réinjectée.
+ERREUR BDD - Impossible d'insérer ID: 1539 : (1062, "Duplicate entry '1539' for key 'PRIMARY'")
+INFO CORRECTION - ID: 5530 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 5530 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+INFO CORRECTION - ID: 2113 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 2113 sautée car : Nom ou Catégorie manquant (impossible à corriger)
+ERREUR ISOLÉE - Ligne ID: 5226 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01)
+ERREUR ISOLÉE - Ligne ID: 1102 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+ERREUR ISOLÉE - Ligne ID: 1986 sautée car : Nom ou Catégorie manquant (impossible à corriger)
+ERREUR ISOLÉE - Ligne ID: 2917 sautée car : Nom ou Catégorie manquant (impossible à corriger), Le prix ne peut être égal à 0
+ERREUR ISOLÉE - Ligne ID: 1889 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01), Le prix ne peut être égal à 0
+ERREUR ISOLÉE - Ligne ID: 2484 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+ERREUR ISOLÉE - Ligne ID: 3591 sautée car : Nom ou Catégorie manquant (impossible à corriger)
+ERREUR ISOLÉE - Ligne ID: 7983 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+ERREUR ISOLÉE - Ligne ID: 6402 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+ERREUR ISOLÉE - Ligne ID: 9742 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01)
+INFO CORRECTION - ID: 4683 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 4683 sautée car : Format de date hors calendrier (nan)
+ERREUR ISOLÉE - Ligne ID: 7990 sautée car : Format de date hors calendrier (nan), Le prix ne peut être égal à 0
+ERREUR ISOLÉE - Ligne ID: 2526 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan), Le prix ne peut être égal à 0
+INFO CORRECTION - ID: 7635 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 7635 sautée car : Nom ou Catégorie manquant (impossible à corriger)
+ERREUR ISOLÉE - Ligne ID: 9333 sautée car : Nom ou Catégorie manquant (impossible à corriger), Le prix ne peut être égal à 0
+SUCCÈS - Ligne ID: 7900 prête à être réinjectée.
+ERREUR BDD - Impossible d'insérer ID: 7900 : (1062, "Duplicate entry '7900' for key 'PRIMARY'")
+ERREUR ISOLÉE - Ligne ID: 9723 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01)
+ERREUR ISOLÉE - Ligne ID: 3611 sautée car : Nom ou Catégorie manquant (impossible à corriger), Le prix ne peut être égal à 0
+INFO CORRECTION - ID: 8411 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 8411 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01)
+ERREUR ISOLÉE - Ligne ID: 3748 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+INFO CORRECTION - ID: 1803 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 1803 sautée car : Nom ou Catégorie manquant (impossible à corriger)
+INFO CORRECTION - ID: 3976 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 3976 sautée car : Nom ou Catégorie manquant (impossible à corriger)
+ERREUR ISOLÉE - Ligne ID: 2435 sautée car : Nom ou Catégorie manquant (impossible à corriger), Le prix ne peut être égal à 0
+ERREUR ISOLÉE - Ligne ID: 7053 sautée car : Format de date hors calendrier (nan), Le prix ne peut être égal à 0
+ERREUR ISOLÉE - Ligne ID: 4492 sautée car : Nom ou Catégorie manquant (impossible à corriger), Le prix ne peut être égal à 0
+ERREUR ISOLÉE - Ligne ID: 9144 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+ERREUR ISOLÉE - Ligne ID: 4434 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01), Le prix ne peut être égal à 0
+ERREUR ISOLÉE - Ligne ID: 4870 sautée car : Nom ou Catégorie manquant (impossible à corriger), Le prix ne peut être égal à 0
+ERREUR ISOLÉE - Ligne ID: 8892 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01), Le prix ne peut être égal à 0
+INFO CORRECTION - ID: 1203 (Prix -50.0 corrigé en 50.0)
+SUCCÈS - Ligne ID: 1203 prête à être réinjectée.
+ERREUR BDD - Impossible d'insérer ID: 1203 : (1062, "Duplicate entry '1203' for key 'PRIMARY'")
+INFO CORRECTION - ID: 1626 (Prix -50.0 corrigé en 50.0)
+SUCCÈS - Ligne ID: 1626 prête à être réinjectée.
+ERREUR BDD - Impossible d'insérer ID: 1626 : (1062, "Duplicate entry '1626' for key 'PRIMARY'")
+ERREUR ISOLÉE - Ligne ID: 5347 sautée car : Nom ou Catégorie manquant (impossible à corriger), Le prix ne peut être égal à 0
+SUCCÈS - Ligne ID: 3696 prête à être réinjectée.
+ERREUR BDD - Impossible d'insérer ID: 3696 : (1062, "Duplicate entry '3696' for key 'PRIMARY'")
+ERREUR ISOLÉE - Ligne ID: 5402 sautée car : Format de date hors calendrier (nan), Le prix ne peut être égal à 0
+ERREUR ISOLÉE - Ligne ID: 7025 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+INFO CORRECTION - ID: 1729 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 1729 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+INFO CORRECTION - ID: 3185 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 3185 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+ERREUR ISOLÉE - Ligne ID: 6611 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01)
+ERREUR ISOLÉE - Ligne ID: 6954 sautée car : Nom ou Catégorie manquant (impossible à corriger), Le prix ne peut être égal à 0
+ERREUR ISOLÉE - Ligne ID: 1663 sautée car : Le prix ne peut être égal à 0
+ERREUR ISOLÉE - Ligne ID: 3156 sautée car : Le prix ne peut être égal à 0
+ERREUR ISOLÉE - Ligne ID: 7585 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01), Le prix ne peut être égal à 0
+INFO CORRECTION - ID: 6474 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 6474 sautée car : Format de date hors calendrier (nan)
+ERREUR ISOLÉE - Ligne ID: 5139 sautée car : Format de date hors calendrier (2023-15-01), Le prix ne peut être égal à 0
+INFO CORRECTION - ID: 2046 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 2046 sautée car : Format de date hors calendrier (nan)
+SUCCÈS - Ligne ID: 4906 prête à être réinjectée.
+ERREUR BDD - Impossible d'insérer ID: 4906 : (1062, "Duplicate entry '4906' for key 'PRIMARY'")
+ERREUR ISOLÉE - Ligne ID: 9497 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01), Le prix ne peut être égal à 0
+ERREUR ISOLÉE - Ligne ID: 1525 sautée car : Nom ou Catégorie manquant (impossible à corriger)
+ERREUR ISOLÉE - Ligne ID: 6029 sautée car : Format de date hors calendrier (2023-15-01)
+INFO CORRECTION - ID: 2974 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 2974 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+ERREUR ISOLÉE - Ligne ID: 7491 sautée car : Nom ou Catégorie manquant (impossible à corriger), Le prix ne peut être égal à 0
+INFO CORRECTION - ID: 7099 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 7099 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01)
+ERREUR ISOLÉE - Ligne ID: 8269 sautée car : Format de date hors calendrier (2023-15-01), Le prix ne peut être égal à 0
+ERREUR ISOLÉE - Ligne ID: 1334 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01), Le prix ne peut être égal à 0
+INFO CORRECTION - ID: 7952 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 7952 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+ERREUR ISOLÉE - Ligne ID: 6251 sautée car : Le prix ne peut être égal à 0
+ERREUR ISOLÉE - Ligne ID: 1004 sautée car : Format de date hors calendrier (2023-15-01)
+ERREUR ISOLÉE - Ligne ID: 5287 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01)
+ERREUR ISOLÉE - Ligne ID: 4285 sautée car : Format de date hors calendrier (2023-15-01)
+INFO CORRECTION - ID: 7548 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 7548 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+INFO CORRECTION - ID: 2985 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 2985 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01)
+ERREUR ISOLÉE - Ligne ID: 9037 sautée car : Nom ou Catégorie manquant (impossible à corriger), Le prix ne peut être égal à 0
+ERREUR ISOLÉE - Ligne ID: 5543 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01), Le prix ne peut être égal à 0
+INFO CORRECTION - ID: 1173 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 1173 sautée car : Format de date hors calendrier (2023-15-01)
+INFO CORRECTION - ID: 3895 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 3895 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01)
+ERREUR ISOLÉE - Ligne ID: 9917 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01)
+ERREUR ISOLÉE - Ligne ID: 5342 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01), Le prix ne peut être égal à 0
+INFO CORRECTION - ID: 3953 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 3953 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+ERREUR ISOLÉE - Ligne ID: 2947 sautée car : Format de date hors calendrier (nan)
+ERREUR ISOLÉE - Ligne ID: 7414 sautée car : Nom ou Catégorie manquant (impossible à corriger), Le prix ne peut être égal à 0
+ERREUR ISOLÉE - Ligne ID: 7139 sautée car : Nom ou Catégorie manquant (impossible à corriger), Le prix ne peut être égal à 0
+ERREUR ISOLÉE - Ligne ID: 2114 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01)
+INFO CORRECTION - ID: 3255 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 3255 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01)
+ERREUR ISOLÉE - Ligne ID: 2332 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+INFO CORRECTION - ID: 5890 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 5890 sautée car : Format de date hors calendrier (2023-15-01)
+ERREUR ISOLÉE - Ligne ID: 5989 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+ERREUR ISOLÉE - Ligne ID: 2653 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01)
+ERREUR ISOLÉE - Ligne ID: 5701 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01)
+INFO CORRECTION - ID: 3133 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 3133 sautée car : Format de date hors calendrier (nan)
+ERREUR ISOLÉE - Ligne ID: 7271 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+SUCCÈS - Ligne ID: 7395 prête à être réinjectée.
+ERREUR BDD - Impossible d'insérer ID: 7395 : (1062, "Duplicate entry '7395' for key 'PRIMARY'")
+ERREUR ISOLÉE - Ligne ID: 1970 sautée car : Nom ou Catégorie manquant (impossible à corriger), Le prix ne peut être égal à 0
+ERREUR ISOLÉE - Ligne ID: 5071 sautée car : Nom ou Catégorie manquant (impossible à corriger)
+ERREUR ISOLÉE - Ligne ID: 7463 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+ERREUR ISOLÉE - Ligne ID: 1935 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan), Le prix ne peut être égal à 0
+ERREUR ISOLÉE - Ligne ID: 5493 sautée car : Nom ou Catégorie manquant (impossible à corriger)
+INFO CORRECTION - ID: 7582 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 7582 sautée car : Nom ou Catégorie manquant (impossible à corriger)
+ERREUR ISOLÉE - Ligne ID: 4570 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+SUCCÈS - Ligne ID: 6593 prête à être réinjectée.
+ERREUR BDD - Impossible d'insérer ID: 6593 : (1062, "Duplicate entry '6593' for key 'PRIMARY'")
+INFO CORRECTION - ID: 7469 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 7469 sautée car : Nom ou Catégorie manquant (impossible à corriger)
+INFO CORRECTION - ID: 5418 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 5418 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01)
+INFO CORRECTION - ID: 2950 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 2950 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01)
+ERREUR ISOLÉE - Ligne ID: 3674 sautée car : Nom ou Catégorie manquant (impossible à corriger)
+ERREUR ISOLÉE - Ligne ID: 2453 sautée car : Nom ou Catégorie manquant (impossible à corriger)
+ERREUR ISOLÉE - Ligne ID: 4107 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01), Le prix ne peut être égal à 0
+ERREUR ISOLÉE - Ligne ID: 5348 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01)
+INFO CORRECTION - ID: 9617 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 9617 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+INFO CORRECTION - ID: 7378 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 7378 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01)
+ERREUR ISOLÉE - Ligne ID: 5970 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+ERREUR ISOLÉE - Ligne ID: 7099 sautée car : Format de date hors calendrier (2023-15-01)
+ERREUR ISOLÉE - Ligne ID: 6970 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan), Le prix ne peut être égal à 0
+ERREUR ISOLÉE - Ligne ID: 5169 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+ERREUR ISOLÉE - Ligne ID: 3103 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01)
+INFO CORRECTION - ID: 8258 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 8258 sautée car : Nom ou Catégorie manquant (impossible à corriger)
+ERREUR ISOLÉE - Ligne ID: 6074 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+INFO CORRECTION - ID: 9973 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 9973 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01)
+ERREUR ISOLÉE - Ligne ID: 7951 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan), Le prix ne peut être égal à 0
+INFO CORRECTION - ID: 5860 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 5860 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+ERREUR ISOLÉE - Ligne ID: 1148 sautée car : Format de date hors calendrier (2023-15-01), Le prix ne peut être égal à 0
+ERREUR ISOLÉE - Ligne ID: 3658 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01), Le prix ne peut être égal à 0
+ERREUR ISOLÉE - Ligne ID: 4368 sautée car : Nom ou Catégorie manquant (impossible à corriger)
+ERREUR ISOLÉE - Ligne ID: 8148 sautée car : Format de date hors calendrier (2023-15-01)
+ERREUR ISOLÉE - Ligne ID: 7839 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01)
+INFO CORRECTION - ID: 2127 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 2127 sautée car : Format de date hors calendrier (2023-15-01)
+INFO CORRECTION - ID: 9848 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 9848 sautée car : Nom ou Catégorie manquant (impossible à corriger)
+ERREUR ISOLÉE - Ligne ID: 5307 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+ERREUR ISOLÉE - Ligne ID: 7187 sautée car : Format de date hors calendrier (2023-15-01), Le prix ne peut être égal à 0
+ERREUR ISOLÉE - Ligne ID: 3187 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01), Le prix ne peut être égal à 0
+INFO CORRECTION - ID: 9239 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 9239 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+ERREUR ISOLÉE - Ligne ID: 4591 sautée car : Nom ou Catégorie manquant (impossible à corriger)
+ERREUR ISOLÉE - Ligne ID: 8626 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan), Le prix ne peut être égal à 0
+ERREUR ISOLÉE - Ligne ID: 4998 sautée car : Format de date hors calendrier (nan)
+INFO CORRECTION - ID: 9121 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 9121 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01)
+ERREUR ISOLÉE - Ligne ID: 2662 sautée car : Format de date hors calendrier (nan), Le prix ne peut être égal à 0
+ERREUR ISOLÉE - Ligne ID: 5574 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01), Le prix ne peut être égal à 0
+ERREUR ISOLÉE - Ligne ID: 3610 sautée car : Nom ou Catégorie manquant (impossible à corriger)
+ERREUR ISOLÉE - Ligne ID: 3303 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01)
+ERREUR ISOLÉE - Ligne ID: 7687 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01), Le prix ne peut être égal à 0
+ERREUR ISOLÉE - Ligne ID: 9553 sautée car : Format de date hors calendrier (nan), Le prix ne peut être égal à 0
+INFO CORRECTION - ID: 3798 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 3798 sautée car : Nom ou Catégorie manquant (impossible à corriger)
+ERREUR ISOLÉE - Ligne ID: 2000 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01), Le prix ne peut être égal à 0
+INFO CORRECTION - ID: 2641 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 2641 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+ERREUR ISOLÉE - Ligne ID: 4270 sautée car : Format de date hors calendrier (2023-15-01), Le prix ne peut être égal à 0
+ERREUR ISOLÉE - Ligne ID: 8412 sautée car : Nom ou Catégorie manquant (impossible à corriger), Le prix ne peut être égal à 0
+ERREUR ISOLÉE - Ligne ID: 6695 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan), Le prix ne peut être égal à 0
+ERREUR ISOLÉE - Ligne ID: 2736 sautée car : Format de date hors calendrier (2023-15-01)
+ERREUR ISOLÉE - Ligne ID: 2266 sautée car : Nom ou Catégorie manquant (impossible à corriger), Le prix ne peut être égal à 0
+ERREUR ISOLÉE - Ligne ID: 7144 sautée car : Nom ou Catégorie manquant (impossible à corriger)
+ERREUR ISOLÉE - Ligne ID: 4057 sautée car : Format de date hors calendrier (2023-15-01)
+ERREUR ISOLÉE - Ligne ID: 6556 sautée car : Nom ou Catégorie manquant (impossible à corriger), Le prix ne peut être égal à 0
+ERREUR ISOLÉE - Ligne ID: 3407 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+SUCCÈS - Ligne ID: 8052 prête à être réinjectée.
+ERREUR BDD - Impossible d'insérer ID: 8052 : (1062, "Duplicate entry '8052' for key 'PRIMARY'")
+ERREUR ISOLÉE - Ligne ID: 2162 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+ERREUR ISOLÉE - Ligne ID: 8071 sautée car : Nom ou Catégorie manquant (impossible à corriger)
+INFO CORRECTION - ID: 1782 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 1782 sautée car : Nom ou Catégorie manquant (impossible à corriger)
+ERREUR ISOLÉE - Ligne ID: 6942 sautée car : Nom ou Catégorie manquant (impossible à corriger), Le prix ne peut être égal à 0
+INFO CORRECTION - ID: 8439 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 8439 sautée car : Nom ou Catégorie manquant (impossible à corriger)
+INFO CORRECTION - ID: 3927 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 3927 sautée car : Nom ou Catégorie manquant (impossible à corriger)
+ERREUR ISOLÉE - Ligne ID: 8593 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+INFO CORRECTION - ID: 9961 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 9961 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+INFO CORRECTION - ID: 7951 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 7951 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+ERREUR ISOLÉE - Ligne ID: 2288 sautée car : Format de date hors calendrier (nan)
+ERREUR ISOLÉE - Ligne ID: 7195 sautée car : Nom ou Catégorie manquant (impossible à corriger)
+ERREUR ISOLÉE - Ligne ID: 4584 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan), Le prix ne peut être égal à 0
+ERREUR ISOLÉE - Ligne ID: 4165 sautée car : Nom ou Catégorie manquant (impossible à corriger), Le prix ne peut être égal à 0
+INFO CORRECTION - ID: 5092 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 5092 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01)
+ERREUR ISOLÉE - Ligne ID: 1192 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01)
+INFO CORRECTION - ID: 5071 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 5071 sautée car : Nom ou Catégorie manquant (impossible à corriger)
+INFO CORRECTION - ID: 2096 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 2096 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+ERREUR ISOLÉE - Ligne ID: 7452 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan), Le prix ne peut être égal à 0
+INFO CORRECTION - ID: 1409 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 1409 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+INFO CORRECTION - ID: 4260 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 4260 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+ERREUR ISOLÉE - Ligne ID: 6134 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+INFO CORRECTION - ID: 9396 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 9396 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01)
+INFO CORRECTION - ID: 3471 (Prix -50.0 corrigé en 50.0)
+SUCCÈS - Ligne ID: 3471 prête à être réinjectée.
+ERREUR BDD - Impossible d'insérer ID: 3471 : (1062, "Duplicate entry '3471' for key 'PRIMARY'")
+ERREUR ISOLÉE - Ligne ID: 9889 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01), Le prix ne peut être égal à 0
+INFO CORRECTION - ID: 7022 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 7022 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01)
+ERREUR ISOLÉE - Ligne ID: 2726 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan), Le prix ne peut être égal à 0
+ERREUR ISOLÉE - Ligne ID: 1528 sautée car : Nom ou Catégorie manquant (impossible à corriger), Le prix ne peut être égal à 0
+ERREUR ISOLÉE - Ligne ID: 2841 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan), Le prix ne peut être égal à 0
+ERREUR ISOLÉE - Ligne ID: 1474 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01), Le prix ne peut être égal à 0
+ERREUR ISOLÉE - Ligne ID: 1165 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01)
+ERREUR ISOLÉE - Ligne ID: 1091 sautée car : Format de date hors calendrier (nan)
+ERREUR ISOLÉE - Ligne ID: 8506 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+INFO CORRECTION - ID: 9817 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 9817 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+INFO CORRECTION - ID: 6853 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 6853 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01)
+ERREUR ISOLÉE - Ligne ID: 3473 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+INFO CORRECTION - ID: 8330 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 8330 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01)
+ERREUR ISOLÉE - Ligne ID: 8281 sautée car : Nom ou Catégorie manquant (impossible à corriger)
+ERREUR ISOLÉE - Ligne ID: 4054 sautée car : Format de date hors calendrier (2023-15-01)
+INFO CORRECTION - ID: 9739 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 9739 sautée car : Nom ou Catégorie manquant (impossible à corriger)
+ERREUR ISOLÉE - Ligne ID: 1739 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+ERREUR ISOLÉE - Ligne ID: 8695 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+ERREUR ISOLÉE - Ligne ID: 3672 sautée car : Nom ou Catégorie manquant (impossible à corriger)
+ERREUR ISOLÉE - Ligne ID: 5637 sautée car : Nom ou Catégorie manquant (impossible à corriger), Le prix ne peut être égal à 0
+ERREUR ISOLÉE - Ligne ID: 1925 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan), Le prix ne peut être égal à 0
+INFO CORRECTION - ID: 6742 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 6742 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01)
+ERREUR ISOLÉE - Ligne ID: 7422 sautée car : Format de date hors calendrier (2023-15-01)
+ERREUR ISOLÉE - Ligne ID: 7360 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01)
+ERREUR ISOLÉE - Ligne ID: 3850 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+ERREUR ISOLÉE - Ligne ID: 6875 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01)
+ERREUR ISOLÉE - Ligne ID: 2309 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+ERREUR ISOLÉE - Ligne ID: 1125 sautée car : Nom ou Catégorie manquant (impossible à corriger)
+ERREUR ISOLÉE - Ligne ID: 9521 sautée car : Nom ou Catégorie manquant (impossible à corriger), Le prix ne peut être égal à 0
+INFO CORRECTION - ID: 1139 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 1139 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01)
+INFO CORRECTION - ID: 2004 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 2004 sautée car : Format de date hors calendrier (nan)
+INFO CORRECTION - ID: 3575 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 3575 sautée car : Nom ou Catégorie manquant (impossible à corriger)
+ERREUR ISOLÉE - Ligne ID: 1030 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+ERREUR ISOLÉE - Ligne ID: 5654 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01), Le prix ne peut être égal à 0
+ERREUR ISOLÉE - Ligne ID: 4227 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+ERREUR ISOLÉE - Ligne ID: 2968 sautée car : Nom ou Catégorie manquant (impossible à corriger), Le prix ne peut être égal à 0
+INFO CORRECTION - ID: 4373 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 4373 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01)
+ERREUR ISOLÉE - Ligne ID: 6088 sautée car : Le prix ne peut être égal à 0
+ERREUR ISOLÉE - Ligne ID: 9079 sautée car : Nom ou Catégorie manquant (impossible à corriger), Le prix ne peut être égal à 0
+ERREUR ISOLÉE - Ligne ID: 8781 sautée car : Format de date hors calendrier (2023-15-01)
+INFO CORRECTION - ID: 6733 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 6733 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (nan)
+ERREUR ISOLÉE - Ligne ID: 3879 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01)
+INFO CORRECTION - ID: 2470 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 2470 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01)
+ERREUR ISOLÉE - Ligne ID: 8517 sautée car : Nom ou Catégorie manquant (impossible à corriger), Format de date hors calendrier (2023-15-01)
+INFO CORRECTION - ID: 7941 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 7941 sautée car : Nom ou Catégorie manquant (impossible à corriger)
+INFO CORRECTION - ID: 6531 (Prix -50.0 corrigé en 50.0)
+ERREUR ISOLÉE - Ligne ID: 6531 sautée car : Nom ou Catégorie manquant (impossible à corriger)
+
+--- BILAN DE LA REPRISE ---
+Lignes parfaitement valides réinjectées : 11
+Lignes corrigées automatiquement puis réinjectées : 5
+Total des lignes réinjectées : 16
+Lignes isolées et exclues : 284

@@ -1,0 +1,16 @@
+id_etablissement,nom,adresse,ville,type
+1,Lacroix Imbert S.A.S. Santé,"137, avenue Couturier",Parent,CHU
+2,Gomez Santé,"63, rue Olivier Valette",Maillard,EHPAD
+3,Lebon Santé,"47, chemin de Blanc",Rivière-sur-Munoz,Centre médical
+4,Meyer Millet S.A. Santé,"41, rue Timothée Dos Santos",Delaunaynec,CHU
+5,Poulain Moreau S.A. Santé,"43, rue Capucine Fleury",Sainte LouisVille,Clinique
+6,Prévost Santé,"455, boulevard Cousin",Allard,CHU
+7,Couturier Santé,chemin Sébastien Maury,Robin,Centre médical
+8,Thibault Marion S.A.S. Santé,"343, rue Hugues Julien",SchneiderBourg,CHU
+9,Dias Santé,"79, chemin Laporte",Goncalves,CHU
+10,Maurice et Fils Santé,"899, rue Guy Grondin",TecherVille,EHPAD
+11,Couturier Rousseau SARL Santé,"70, boulevard Couturier",Thomas,CHU
+12,Carlier Santé,"1, chemin Georges Chevalier",Leclerc,Centre médical
+13,Texier SA Santé,"7, rue Collin",Ribeiroboeuf,EHPAD
+14,Dumont S.A.S. Santé,"23, chemin de Pereira",Riou,EHPAD
+15,Alves Barre S.A.R.L. Santé,avenue de Aubert,Jourdan,Centre médical

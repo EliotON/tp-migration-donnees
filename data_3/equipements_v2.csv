@@ -1,0 +1,301 @@
+ref,designation,fabricant,sn,installé_le,état,etab
+301,Respirateur,Roux Hoareau SARL,CL-00001,2024-04-30,Hors service,4
+302,ECG,Michel S.A.S.,CL-00002,2025-03-13,En maintenance,8
+303,Défibrillateur,Paris,CL-00003,2024-12-05,Actif,11
+304,Défibrillateur,Vallée,CL-00004,2022-09-04,Hors service,12
+305,Pousse-seringue,Le Gall,CL-00005,2025-03-17,En maintenance,15
+306,Défibrillateur,Hervé,CL-00006,2022-11-23,En maintenance,14
+307,Pousse-seringue,Fernandes,CL-00007,2024-04-23,En maintenance,12
+308,Défibrillateur,Lévy,CL-00008,2023-03-28,En maintenance,6
+309,Pousse-seringue,Fabre,CL-00009,2023-08-03,Actif,10
+310,Pousse-seringue,Philippe Morvan S.A.R.L.,CL-00010,2025-02-19,En maintenance,12
+311,Pousse-seringue,Bonnin S.A.R.L.,CL-00011,2022-05-24,En maintenance,8
+312,Scope,Collin,CL-00012,2025-02-18,Hors service,12
+313,Pousse-seringue,Lopes S.A.R.L.,CL-00013,2023-02-28,Actif,14
+314,Défibrillateur,Collin,CL-00014,2023-06-24,En maintenance,4
+315,Scope,Hamon Clerc SA,CL-00015,2022-12-28,Actif,8
+316,Défibrillateur,Valentin,CL-00016,2023-07-18,En maintenance,12
+317,Scope,Collet S.A.R.L.,CL-00017,2025-03-23,Actif,5
+318,Pousse-seringue,Rémy,CL-00018,2022-12-09,Hors service,15
+319,Défibrillateur,Becker,CL-00019,2022-08-11,Hors service,2
+320,Pousse-seringue,Techer,CL-00020,2024-07-26,Actif,5
+321,Scope,Gaudin Leconte et Fils,CL-00021,2024-07-01,Actif,1
+322,Scope,Cohen,CL-00022,2024-02-08,En maintenance,9
+323,Pousse-seringue,Goncalves,CL-00023,2023-06-08,Hors service,6
+324,Respirateur,Lebrun,CL-00024,2025-04-10,Actif,7
+325,Scope,Vaillant Bailly S.A.,CL-00025,2024-12-30,Hors service,6
+326,Scope,Nguyen,CL-00026,2025-02-05,Hors service,7
+327,Pousse-seringue,Rivière,CL-00027,2022-07-18,En maintenance,2
+328,Scope,Menard S.A.R.L.,CL-00028,2023-06-17,En maintenance,12
+329,ECG,Gay,CL-00029,2025-03-29,Actif,14
+330,ECG,Descamps,CL-00030,2024-06-11,En maintenance,15
+331,Défibrillateur,Léger,CL-00031,2024-09-10,Hors service,13
+332,ECG,Vincent Fontaine S.A.R.L.,CL-00032,2024-11-10,En maintenance,14
+333,Scope,Guillon S.A.R.L.,CL-00033,2025-02-02,En maintenance,2
+334,ECG,Peron,CL-00034,2023-02-26,En maintenance,7
+335,Défibrillateur,Gaillard S.A.S.,CL-00035,2022-09-24,Hors service,10
+336,Pousse-seringue,Lelièvre,CL-00036,2023-07-15,En maintenance,5
+337,Scope,Denis Brun SARL,CL-00037,2024-03-16,Hors service,8
+338,Pousse-seringue,Barbe et Fils,CL-00038,2025-01-23,Hors service,2
+339,Scope,Schneider,CL-00039,2025-03-03,En maintenance,11
+340,Défibrillateur,Potier,CL-00040,2024-01-22,Actif,10
+341,Pousse-seringue,Maury,CL-00041,2023-08-27,Actif,3
+342,Scope,Teixeira S.A.R.L.,CL-00042,2023-06-20,Actif,13
+343,Respirateur,Peltier SA,CL-00043,2024-02-14,En maintenance,13
+344,ECG,Chauvin,CL-00044,2024-03-11,Actif,1
+345,Respirateur,Paul,CL-00045,2022-09-29,En maintenance,7
+346,Scope,Michaud,CL-00046,2023-04-21,En maintenance,9
+347,Défibrillateur,Bazin Lefebvre SA,CL-00047,2023-12-03,Actif,15
+348,Défibrillateur,Blin SARL,CL-00048,2025-03-02,Actif,7
+349,Défibrillateur,Rousset,CL-00049,2024-03-29,Actif,15
+350,ECG,Delaunay,CL-00050,2023-06-17,Actif,2
+351,Défibrillateur,Jacquet,CL-00051,2024-09-02,Actif,3
+352,Respirateur,Marques Martineau S.A.,CL-00052,2025-02-20,Actif,9
+353,Respirateur,Mathieu S.A.R.L.,CL-00053,2024-11-02,Hors service,7
+354,Défibrillateur,Salmon,CL-00054,2024-08-20,Actif,9
+355,Pousse-seringue,Benard De Oliveira SARL,CL-00055,2024-02-26,Hors service,9
+356,Respirateur,Marchal,CL-00056,2022-06-02,En maintenance,15
+357,Défibrillateur,Renaud,CL-00057,2024-08-29,Actif,1
+358,Scope,Bertin,CL-00058,2023-02-20,Actif,10
+359,Pousse-seringue,Lesage,CL-00059,2023-05-31,Hors service,8
+360,Pousse-seringue,Prévost,CL-00060,2023-08-03,Actif,14
+361,Respirateur,Gomez,CL-00061,2024-01-21,Hors service,3
+362,Respirateur,Alexandre,CL-00062,2024-12-16,Actif,4
+363,Défibrillateur,Morel,CL-00063,2023-07-05,Hors service,13
+364,Défibrillateur,Parent,CL-00064,2023-07-05,Hors service,2
+365,Respirateur,Lelièvre SARL,CL-00065,2024-06-05,Actif,12
+366,Respirateur,Loiseau SARL,CL-00066,2024-06-01,Hors service,14
+367,Scope,Gallet Peltier S.A.R.L.,CL-00067,2023-03-14,En maintenance,3
+368,Pousse-seringue,Benard et Fils,CL-00068,2025-02-09,Hors service,3
+369,ECG,Masse Boulay S.A.,CL-00069,2023-01-11,Actif,11
+370,Respirateur,Collet SARL,CL-00070,2022-11-24,Hors service,15
+371,ECG,Jacquot,CL-00071,2022-09-25,Hors service,1
+372,Défibrillateur,Hernandez S.A.,CL-00072,2024-10-06,Actif,1
+373,Scope,Devaux,CL-00073,2022-11-05,Hors service,6
+374,Scope,Delannoy,CL-00074,2024-06-12,Actif,6
+375,Défibrillateur,Lefèvre S.A.R.L.,CL-00075,2024-07-07,Actif,3
+376,Respirateur,Mendès,CL-00076,2024-06-22,Actif,2
+377,Scope,Bruneau,CL-00077,2023-03-10,Actif,4
+378,Pousse-seringue,Delaunay,CL-00078,2024-07-18,En maintenance,3
+379,Scope,Leroy Gauthier S.A.,CL-00079,2022-12-31,En maintenance,1
+380,Défibrillateur,Collin,CL-00080,2022-12-30,Hors service,9
+381,Respirateur,Berthelot,CL-00081,2023-11-10,Hors service,9
+382,Scope,Daniel,CL-00082,2024-11-23,Actif,8
+383,Défibrillateur,Lemaire SA,CL-00083,2024-10-08,En maintenance,2
+384,Pousse-seringue,Blin,CL-00084,2022-11-17,Actif,12
+385,Respirateur,Gosselin,CL-00085,2022-07-19,Hors service,10
+386,Scope,Étienne,CL-00086,2024-06-23,En maintenance,7
+387,Respirateur,Robert Lucas S.A.S.,CL-00087,2024-10-07,Hors service,9
+388,ECG,Duhamel,CL-00088,2022-08-23,En maintenance,12
+389,Respirateur,Bigot Regnier S.A.,CL-00089,2023-09-18,En maintenance,5
+390,Pousse-seringue,Delaunay Bonnin S.A.S.,CL-00090,2022-06-16,En maintenance,11
+391,Défibrillateur,Delaunay Lévêque SARL,CL-00091,2023-04-12,Actif,12
+392,Pousse-seringue,Vidal Fontaine et Fils,CL-00092,2022-10-08,Hors service,2
+393,Défibrillateur,Gilbert Fontaine S.A.,CL-00093,2022-12-08,Hors service,8
+394,Scope,Charles,CL-00094,2023-07-24,En maintenance,9
+395,Pousse-seringue,Pichon S.A.S.,CL-00095,2023-07-12,Actif,8
+396,Défibrillateur,Poulain,CL-00096,2023-08-27,Hors service,15
+397,ECG,Meyer S.A.S.,CL-00097,2024-06-24,Actif,11
+398,Pousse-seringue,Foucher,CL-00098,2024-08-04,En maintenance,13
+399,Pousse-seringue,Lombard,CL-00099,2022-08-22,En maintenance,9
+400,Respirateur,Dufour,CL-00100,2024-01-06,Actif,10
+401,Scope,Fernandez S.A.R.L.,CL-00101,2025-01-10,En maintenance,10
+402,Pousse-seringue,Gaudin De Oliveira S.A.R.L.,CL-00102,2024-08-14,En maintenance,12
+403,Défibrillateur,Germain Lefèvre SA,CL-00103,2022-06-17,Actif,4
+404,ECG,Vidal Barre S.A.,CL-00104,2025-03-07,Actif,1
+405,Pousse-seringue,Schmitt et Fils,CL-00105,2022-12-09,Hors service,2
+406,Scope,Torres S.A.S.,CL-00106,2022-08-03,En maintenance,14
+407,Scope,Dubois SA,CL-00107,2024-02-24,Hors service,10
+408,Scope,Blanc Marty S.A.S.,CL-00108,2025-02-16,Actif,13
+409,Pousse-seringue,Jacquet,CL-00109,2025-01-19,En maintenance,2
+410,ECG,Laine,CL-00110,2023-11-21,Hors service,3
+411,Respirateur,Delmas SA,CL-00111,2023-10-15,Actif,12
+412,Scope,Barbier S.A.R.L.,CL-00112,2023-07-30,Actif,10
+413,Respirateur,Sauvage,CL-00113,2023-08-29,Hors service,2
+414,ECG,Muller,CL-00114,2023-11-01,En maintenance,2
+415,Pousse-seringue,Lucas,CL-00115,2023-01-24,En maintenance,15
+416,Pousse-seringue,Lacroix S.A.,CL-00116,2022-11-05,En maintenance,11
+417,Pousse-seringue,Bouvet Humbert SA,CL-00117,2022-10-22,En maintenance,11
+418,Pousse-seringue,Guyot Menard S.A.S.,CL-00118,2022-05-17,En maintenance,6
+419,Défibrillateur,Robin Collin S.A.R.L.,CL-00119,2024-11-21,En maintenance,1
+420,Scope,Collin,CL-00120,2024-03-16,En maintenance,4
+421,ECG,Pruvost,CL-00121,2024-12-19,En maintenance,6
+422,Défibrillateur,Gilbert,CL-00122,2025-02-27,Hors service,7
+423,Respirateur,Peltier,CL-00123,2022-07-04,En maintenance,10
+424,Respirateur,Gaillard,CL-00124,2023-11-18,En maintenance,6
+425,ECG,Grondin,CL-00125,2024-11-27,En maintenance,2
+426,Pousse-seringue,Camus,CL-00126,2022-11-09,Hors service,14
+427,Pousse-seringue,Da Costa,CL-00127,2023-02-03,Actif,1
+428,Défibrillateur,Blanchard,CL-00128,2023-02-21,Hors service,1
+429,Pousse-seringue,Maillard SARL,CL-00129,2024-11-25,Actif,8
+430,ECG,Guilbert S.A.S.,CL-00130,2024-02-20,En maintenance,12
+431,Défibrillateur,Chartier SA,CL-00131,2022-07-17,Actif,5
+432,Défibrillateur,Guillou Masse SA,CL-00132,2025-02-18,En maintenance,2
+433,Respirateur,Dupont S.A.S.,CL-00133,2022-12-09,Actif,3
+434,ECG,Michel,CL-00134,2023-01-20,En maintenance,2
+435,Respirateur,Turpin Delattre et Fils,CL-00135,2024-03-04,Hors service,12
+436,Pousse-seringue,Legros S.A.R.L.,CL-00136,2024-07-04,En maintenance,6
+437,Défibrillateur,Boulanger S.A.,CL-00137,2024-11-03,En maintenance,2
+438,Scope,Pereira,CL-00138,2025-01-25,En maintenance,1
+439,Pousse-seringue,Sauvage S.A.,CL-00139,2023-05-03,En maintenance,11
+440,Pousse-seringue,Guillou,CL-00140,2024-10-12,Actif,5
+441,Scope,Humbert,CL-00141,2022-11-20,Hors service,5
+442,Respirateur,Paris SA,CL-00142,2024-11-15,En maintenance,14
+443,Respirateur,Martin SA,CL-00143,2023-10-24,Hors service,11
+444,ECG,Ferrand Léger S.A.,CL-00144,2024-04-11,Hors service,10
+445,Défibrillateur,Joly,CL-00145,2024-03-21,Hors service,14
+446,Respirateur,Blanchard,CL-00146,2023-07-20,Hors service,14
+447,ECG,Bousquet Berger S.A.,CL-00147,2024-04-15,Hors service,8
+448,ECG,Laporte,CL-00148,2023-10-16,Actif,8
+449,Pousse-seringue,Baudry Masson S.A.S.,CL-00149,2022-10-02,Actif,11
+450,Défibrillateur,Mace S.A.,CL-00150,2024-10-14,Actif,15
+451,Scope,Joseph S.A.S.,CL-00151,2023-01-04,Hors service,13
+452,Pousse-seringue,Denis S.A.R.L.,CL-00152,2023-08-18,Actif,13
+453,Respirateur,Schmitt,CL-00153,2023-11-05,Actif,11
+454,Scope,Dumas Gonzalez S.A.S.,CL-00154,2024-10-21,En maintenance,6
+455,Défibrillateur,Paris,CL-00155,2023-08-03,En maintenance,7
+456,ECG,Sauvage,CL-00156,2023-01-06,En maintenance,12
+457,Scope,Dupuis,CL-00157,2024-10-15,Actif,11
+458,Pousse-seringue,Huet,CL-00158,2023-07-17,En maintenance,8
+459,Pousse-seringue,Georges,CL-00159,2024-09-22,En maintenance,7
+460,Pousse-seringue,Guillot,CL-00160,2023-03-23,Hors service,12
+461,Scope,Aubert,CL-00161,2022-07-09,En maintenance,9
+462,ECG,Sanchez,CL-00162,2022-09-17,Hors service,13
+463,ECG,Jacques,CL-00163,2023-10-02,Hors service,15
+464,Défibrillateur,Lebreton,CL-00164,2022-09-20,Actif,4
+465,Scope,Hubert,CL-00165,2023-07-24,Hors service,10
+466,Pousse-seringue,Charrier S.A.S.,CL-00166,2022-11-23,Hors service,8
+467,Respirateur,Courtois,CL-00167,2023-08-08,Hors service,14
+468,Pousse-seringue,Reynaud S.A.,CL-00168,2024-01-02,Hors service,11
+469,Respirateur,Pires S.A.,CL-00169,2025-04-14,Hors service,4
+470,Pousse-seringue,Marie,CL-00170,2024-06-08,Actif,2
+471,Scope,Leduc,CL-00171,2024-09-02,Actif,2
+472,Scope,Michaud,CL-00172,2024-05-12,Hors service,7
+473,ECG,Bousquet,CL-00173,2024-04-14,Hors service,7
+474,Défibrillateur,Schmitt Richard SA,CL-00174,2022-09-11,Actif,13
+475,Pousse-seringue,Bailly SA,CL-00175,2022-12-17,Actif,8
+476,Défibrillateur,Evrard Georges et Fils,CL-00176,2023-12-08,Actif,8
+477,Pousse-seringue,Leroy SARL,CL-00177,2024-12-17,Hors service,2
+478,Pousse-seringue,Brun,CL-00178,2022-07-25,Actif,6
+479,Défibrillateur,Fabre,CL-00179,2022-11-16,En maintenance,2
+480,Pousse-seringue,Chauvet,CL-00180,2023-05-10,Actif,14
+481,Respirateur,Mathieu,CL-00181,2024-06-16,En maintenance,15
+482,Pousse-seringue,Besson,CL-00182,2022-11-02,Hors service,9
+483,Pousse-seringue,Lefebvre,CL-00183,2023-01-12,Actif,11
+484,Défibrillateur,Bertrand Robert SA,CL-00184,2024-04-21,En maintenance,7
+485,Défibrillateur,Richard Boyer SARL,CL-00185,2023-04-25,Hors service,9
+486,Scope,Aubry S.A.,CL-00186,2025-01-21,En maintenance,15
+487,Défibrillateur,Laroche S.A.R.L.,CL-00187,2025-03-28,Hors service,14
+488,Pousse-seringue,Lacroix,CL-00188,2024-05-14,Actif,8
+489,Défibrillateur,Gomez S.A.R.L.,CL-00189,2024-08-20,Actif,4
+490,Pousse-seringue,Renault,CL-00190,2022-07-29,Hors service,5
+491,Scope,Joly Paul SA,CL-00191,2023-12-30,Hors service,2
+492,Respirateur,Salmon Bouchet S.A.S.,CL-00192,2022-07-28,Hors service,10
+493,Défibrillateur,Gautier,CL-00193,2022-06-16,Actif,3
+494,Respirateur,Mahe Dias S.A.,CL-00194,2024-11-29,En maintenance,3
+495,Défibrillateur,Cohen Bonneau S.A.S.,CL-00195,2024-06-14,Actif,12
+496,Scope,Legros SA,CL-00196,2024-04-14,Actif,12
+497,ECG,Leroux,CL-00197,2025-02-02,Actif,7
+498,Pousse-seringue,Dupré,CL-00198,2024-11-02,Hors service,3
+499,Pousse-seringue,Guillon,CL-00199,2023-09-12,Actif,7
+500,Pousse-seringue,Courtois,CL-00200,2023-03-12,Actif,9
+501,Pousse-seringue,Fernandes,CL-00201,2022-06-09,Actif,3
+502,Défibrillateur,Lelièvre SARL,CL-00202,2024-12-15,Actif,5
+503,Respirateur,Rey S.A.S.,CL-00203,2024-06-18,Hors service,9
+504,Pousse-seringue,Texier,CL-00204,2024-09-18,Hors service,4
+505,Scope,Jacob SARL,CL-00205,2022-07-21,Actif,12
+506,Défibrillateur,Da Silva,CL-00206,2023-11-30,Actif,13
+507,Défibrillateur,Gomez SA,CL-00207,2023-12-05,Actif,2
+508,Scope,Richard,CL-00208,2023-05-23,Hors service,3
+509,Défibrillateur,Monnier Rodrigues SARL,CL-00209,2024-01-02,Actif,9
+510,Pousse-seringue,Pichon Chartier SARL,CL-00210,2022-09-04,En maintenance,6
+511,Respirateur,Masse SA,CL-00211,2024-10-21,Hors service,5
+512,Défibrillateur,Laine Denis S.A.S.,CL-00212,2022-12-09,Hors service,13
+513,Respirateur,Schmitt Leroy S.A.R.L.,CL-00213,2023-09-17,Hors service,10
+514,Défibrillateur,Delahaye Bouchet SARL,CL-00214,2024-02-03,Hors service,6
+515,Pousse-seringue,Gimenez SARL,CL-00215,2024-01-07,En maintenance,8
+516,Respirateur,Marchand Techer S.A.S.,CL-00216,2024-04-01,Hors service,4
+517,Respirateur,Hamel Gomes et Fils,CL-00217,2024-09-04,Actif,4
+518,ECG,Benard Couturier S.A.,CL-00218,2023-09-23,En maintenance,6
+519,Scope,Baudry S.A.,CL-00219,2022-06-09,Hors service,2
+520,Défibrillateur,Perez,CL-00220,2023-10-11,En maintenance,3
+521,Pousse-seringue,Barbe,CL-00221,2024-11-24,Hors service,11
+522,Défibrillateur,Le Roux SARL,CL-00222,2023-05-22,Hors service,7
+523,Scope,Ruiz Blanchard S.A.S.,CL-00223,2023-05-03,Hors service,10
+524,Respirateur,Denis,CL-00224,2022-06-02,Actif,8
+525,Pousse-seringue,Le Goff,CL-00225,2024-05-17,Hors service,7
+526,Respirateur,Fernandes,CL-00226,2023-06-18,Hors service,10
+527,Scope,Martel S.A.,CL-00227,2024-03-01,En maintenance,15
+528,Scope,Rocher,CL-00228,2022-09-23,Hors service,6
+529,ECG,Colin Hoareau S.A.,CL-00229,2022-10-03,Hors service,3
+530,ECG,Joseph Peltier SARL,CL-00230,2025-03-12,En maintenance,14
+531,Respirateur,Cordier,CL-00231,2023-03-23,Hors service,12
+532,Respirateur,Vasseur,CL-00232,2025-02-16,Hors service,12
+533,Pousse-seringue,Paul et Fils,CL-00233,2024-06-22,Actif,6
+534,Pousse-seringue,Letellier Lambert et Fils,CL-00234,2025-01-04,Hors service,2
+535,Défibrillateur,Couturier et Fils,CL-00235,2023-10-03,Actif,7
+536,ECG,Boutin Courtois SARL,CL-00236,2023-11-30,Actif,3
+537,Respirateur,Traore,CL-00237,2024-09-27,Actif,11
+538,Pousse-seringue,Perret S.A.,CL-00238,2024-05-20,Actif,14
+539,ECG,Ledoux,CL-00239,2025-03-14,Hors service,13
+540,ECG,Guillou,CL-00240,2023-08-31,En maintenance,4
+541,Défibrillateur,Bernard Guichard SARL,CL-00241,2023-10-30,Actif,1
+542,Scope,Guillon,CL-00242,2022-06-25,Actif,7
+543,ECG,Henry,CL-00243,2024-08-23,Actif,12
+544,ECG,Thibault SARL,CL-00244,2024-11-07,Hors service,13
+545,Défibrillateur,Pages,CL-00245,2023-07-21,En maintenance,9
+546,Scope,Mahe Lévêque et Fils,CL-00246,2023-08-22,Actif,6
+547,Pousse-seringue,Renard SARL,CL-00247,2023-07-30,Actif,2
+548,Scope,Rossi,CL-00248,2023-09-19,Actif,11
+549,ECG,Pereira Menard et Fils,CL-00249,2024-02-26,Actif,11
+550,Pousse-seringue,Olivier S.A.R.L.,CL-00250,2022-10-29,Actif,11
+551,Scope,Giraud,CL-00251,2023-07-15,Actif,12
+552,ECG,Maillot Rousset SARL,CL-00252,2024-11-13,Actif,5
+553,Respirateur,Lemoine,CL-00253,2025-02-17,Actif,13
+554,Scope,Techer,CL-00254,2022-12-26,En maintenance,1
+555,ECG,Gomes S.A.R.L.,CL-00255,2024-12-06,En maintenance,10
+556,ECG,Simon,CL-00256,2024-03-13,En maintenance,1
+557,ECG,Moreau SA,CL-00257,2025-01-27,Hors service,2
+558,Pousse-seringue,David Albert SARL,CL-00258,2023-08-23,En maintenance,3
+559,Défibrillateur,Mary,CL-00259,2022-08-03,Hors service,4
+560,Défibrillateur,Daniel Lenoir S.A.R.L.,CL-00260,2024-04-13,Actif,15
+561,Défibrillateur,Giraud Techer SA,CL-00261,2022-07-24,Actif,1
+562,ECG,Thomas Georges SA,CL-00262,2025-01-20,Hors service,9
+563,ECG,Lemaître Boucher S.A.R.L.,CL-00263,2023-07-26,En maintenance,15
+564,ECG,Labbé SA,CL-00264,2024-05-23,Hors service,15
+565,Respirateur,Petit Gallet S.A.S.,CL-00265,2023-08-30,En maintenance,11
+566,Pousse-seringue,Guyon Gosselin et Fils,CL-00266,2023-10-03,Actif,4
+567,Scope,Moreno S.A.,CL-00267,2024-09-26,Actif,2
+568,Défibrillateur,Nguyen Gérard SARL,CL-00268,2024-11-22,Hors service,4
+569,ECG,Normand Verdier S.A.S.,CL-00269,2024-06-16,Hors service,9
+570,Pousse-seringue,Dijoux,CL-00270,2023-09-30,Hors service,4
+571,Défibrillateur,Besson,CL-00271,2024-10-15,Hors service,13
+572,Défibrillateur,Allain,CL-00272,2022-11-23,Actif,7
+573,Scope,Mace SA,CL-00273,2023-02-13,En maintenance,14
+574,Pousse-seringue,Guyot,CL-00274,2024-08-04,Actif,14
+575,Scope,Le Gall SA,CL-00275,2024-04-19,En maintenance,3
+576,ECG,Legendre,CL-00276,2023-05-01,En maintenance,14
+577,Respirateur,Marques et Fils,CL-00277,2023-08-14,Hors service,4
+578,Pousse-seringue,Maillet,CL-00278,2022-08-16,Hors service,8
+579,Défibrillateur,Techer,CL-00279,2022-09-29,En maintenance,2
+580,Pousse-seringue,Lebon Paris SA,CL-00280,2024-11-19,En maintenance,12
+581,Respirateur,Leblanc S.A.R.L.,CL-00281,2024-07-31,En maintenance,14
+582,Scope,Roger,CL-00282,2023-08-30,En maintenance,13
+583,Défibrillateur,Maillard S.A.R.L.,CL-00283,2024-09-15,Actif,5
+584,ECG,Cordier S.A.S.,CL-00284,2024-11-27,Actif,1
+585,Défibrillateur,Peltier,CL-00285,2024-05-15,Actif,7
+586,Respirateur,Seguin S.A.R.L.,CL-00286,2025-04-02,Actif,15
+587,Pousse-seringue,Chevallier,CL-00287,2023-01-12,Actif,13
+588,Respirateur,Ollivier,CL-00288,2024-03-01,En maintenance,9
+589,Scope,Charrier SA,CL-00289,2023-07-16,Hors service,7
+590,ECG,Charles Grenier S.A.S.,CL-00290,2023-10-22,Hors service,11
+591,ECG,Lamy,CL-00291,2022-06-17,En maintenance,12
+592,ECG,Briand,CL-00292,2024-12-07,Hors service,13
+593,ECG,Lefèvre,CL-00293,2024-12-31,En maintenance,3
+594,Respirateur,Roussel Mercier S.A.S.,CL-00294,2024-01-17,Actif,14
+595,ECG,Duval,CL-00295,2023-01-14,Actif,2
+596,Respirateur,Gros,CL-00296,2024-11-05,En maintenance,6
+597,Respirateur,Aubry,CL-00297,2022-07-10,Hors service,13
+598,Pousse-seringue,Leroy,CL-00298,2023-11-16,Hors service,3
+599,ECG,Letellier Guérin S.A.R.L.,CL-00299,2023-11-25,Hors service,7
+600,ECG,Guillon et Fils,CL-00300,2025-02-01,Hors service,6

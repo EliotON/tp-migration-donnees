@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  mariadb:
+    image: mariadb:10.11
+    container_name: cas3_mariadb
+    environment:
+      MYSQL_ROOT_PASSWORD: exemple
+    ports:
+      - "3306:3306"
+    volumes:
+      - mariadb_data_cas3:/var/lib/mysql
+
+volumes:
+  mariadb_data_cas3:

@@ -1,0 +1,10 @@
+LOG DE GÉNÉRATION DE DONNÉES DE TEST
+====================================
+Début : 2026-03-20 10:11:05
+
+SUCCÈS - 15 lignes générées et sauvegardées dans etablissements.csv
+SUCCÈS - 50 lignes générées et sauvegardées dans techniciens.csv
+SUCCÈS - 300 lignes générées et sauvegardées dans equipements.csv
+SUCCÈS - 400 lignes générées et sauvegardées dans interventions.csv
+
+Fin de la génération : 2026-03-20 10:11:06

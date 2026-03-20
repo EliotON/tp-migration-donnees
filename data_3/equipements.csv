@@ -1,0 +1,301 @@
+id_equipement,type,marque,numero_serie,date_installation,statut,id_etablissement
+1,ECG,Jean Vasseur et Fils,MT-00001,2023-06-13,Actif,13
+2,Pousse-seringue,Delorme,MT-00002,2025-11-18,Actif,5
+3,Défibrillateur,Munoz,MT-00003,2024-05-01,En maintenance,3
+4,Respirateur,Auger,MT-00004,2024-04-13,Actif,2
+5,Scope,Regnier Humbert SARL,MT-00005,2025-12-10,En maintenance,5
+6,Défibrillateur,Lefebvre,MT-00006,2024-07-19,En maintenance,1
+7,Pousse-seringue,Faure Schneider S.A.S.,MT-00007,2024-10-01,En maintenance,7
+8,Respirateur,Pereira S.A.R.L.,MT-00008,2025-04-22,En maintenance,1
+9,Pousse-seringue,Voisin Fabre S.A.,MT-00009,2024-07-12,Hors service,8
+10,Défibrillateur,Schmitt,MT-00010,2023-11-27,Actif,12
+11,Pousse-seringue,Richard,MT-00011,2024-07-28,Actif,5
+12,Scope,Chauveau Germain S.A.,MT-00012,2025-11-22,En maintenance,15
+13,ECG,Le Roux,MT-00013,2026-02-15,En maintenance,8
+14,Pousse-seringue,Henry S.A.S.,MT-00014,2025-04-28,Actif,7
+15,Pousse-seringue,Charrier,MT-00015,2025-07-06,Hors service,7
+16,Respirateur,Leleu,MT-00016,2024-06-02,En maintenance,2
+17,Pousse-seringue,Poulain Renaud SA,MT-00017,2026-01-22,En maintenance,7
+18,ECG,Pichon,MT-00018,2025-07-25,Actif,7
+19,Respirateur,Carre,MT-00019,2025-01-27,Hors service,9
+20,Défibrillateur,Leroy S.A.,MT-00020,2025-03-02,Actif,13
+21,ECG,Adam,MT-00021,2025-04-10,Actif,15
+22,Respirateur,Rémy,MT-00022,2025-09-13,Hors service,14
+23,Respirateur,Lebon Joseph S.A.R.L.,MT-00023,2023-07-10,Actif,14
+24,Défibrillateur,Colin S.A.R.L.,MT-00024,2024-01-24,En maintenance,8
+25,Pousse-seringue,Ribeiro,MT-00025,2025-08-09,En maintenance,3
+26,Respirateur,Jacob,MT-00026,2024-12-09,Hors service,1
+27,Pousse-seringue,Marchal,MT-00027,2025-12-08,Hors service,6
+28,ECG,Rocher Legros S.A.R.L.,MT-00028,2024-04-19,Hors service,10
+29,Défibrillateur,Baudry,MT-00029,2023-03-29,En maintenance,1
+30,Scope,Hebert Ledoux SARL,MT-00030,2025-05-05,Actif,10
+31,Respirateur,Bertin,MT-00031,2023-04-02,En maintenance,8
+32,Respirateur,Lemoine S.A.,MT-00032,2023-04-20,En maintenance,10
+33,Scope,Perez,MT-00033,2023-08-24,En maintenance,13
+34,Scope,Buisson Blanchard SA,MT-00034,2024-09-11,Actif,6
+35,Respirateur,Pons Carlier SARL,MT-00035,2024-11-30,En maintenance,9
+36,Pousse-seringue,Le Gall,MT-00036,2025-04-13,En maintenance,6
+37,Défibrillateur,Rodriguez SARL,MT-00037,2026-02-10,Actif,2
+38,ECG,Mathieu,MT-00038,2024-11-12,Actif,1
+39,ECG,Meunier,MT-00039,2025-06-23,En maintenance,15
+40,Respirateur,Rey Fournier SA,MT-00040,2023-10-26,Actif,11
+41,ECG,Petitjean,MT-00041,2025-11-26,Actif,12
+42,Respirateur,Dufour,MT-00042,2025-04-25,Hors service,5
+43,ECG,Barre S.A.R.L.,MT-00043,2023-07-21,Hors service,4
+44,Respirateur,Gaillard,MT-00044,2024-05-23,En maintenance,8
+45,Scope,Vaillant,MT-00045,2025-12-30,En maintenance,15
+46,Respirateur,Albert Vincent SA,MT-00046,2025-03-16,En maintenance,14
+47,Pousse-seringue,Hoarau Regnier SA,MT-00047,2024-12-19,En maintenance,14
+48,Pousse-seringue,Laurent,MT-00048,2023-06-23,Hors service,12
+49,Scope,Muller,MT-00049,2025-02-10,En maintenance,12
+50,Scope,Maréchal,MT-00050,2024-06-10,En maintenance,1
+51,Respirateur,Bouchet Bertrand S.A.R.L.,MT-00051,2024-05-26,Actif,4
+52,ECG,Cousin S.A.,MT-00052,2023-10-15,En maintenance,8
+53,Pousse-seringue,Vaillant Lacombe S.A.S.,MT-00053,2023-10-20,En maintenance,13
+54,Scope,Joseph Besnard S.A.S.,MT-00054,2024-05-01,En maintenance,11
+55,Défibrillateur,Lévy Bouvet et Fils,MT-00055,2024-12-01,Actif,3
+56,Défibrillateur,Morin,MT-00056,2023-03-24,Actif,7
+57,ECG,Lecoq S.A.R.L.,MT-00057,2023-12-09,En maintenance,9
+58,Scope,Parent Noël et Fils,MT-00058,2025-05-04,En maintenance,7
+59,Scope,Pichon S.A.,MT-00059,2025-11-29,En maintenance,13
+60,Défibrillateur,Marie,MT-00060,2026-01-01,En maintenance,15
+61,Scope,Pottier,MT-00061,2024-05-22,Actif,6
+62,Pousse-seringue,Pons,MT-00062,2024-05-25,Actif,4
+63,Défibrillateur,Bertin Mathieu S.A.,MT-00063,2023-04-24,En maintenance,9
+64,Scope,Boutin,MT-00064,2024-03-30,Hors service,14
+65,Pousse-seringue,Hubert et Fils,MT-00065,2024-06-09,En maintenance,14
+66,Défibrillateur,Clément S.A.,MT-00066,2023-05-17,En maintenance,11
+67,Scope,Lemaître,MT-00067,2023-07-05,Actif,1
+68,ECG,Hamel S.A.S.,MT-00068,2025-02-07,Actif,4
+69,Pousse-seringue,Lamy Techer S.A.,MT-00069,2024-09-04,En maintenance,11
+70,Pousse-seringue,Diallo S.A.,MT-00070,2024-08-06,Hors service,2
+71,Pousse-seringue,Charles Poulain SARL,MT-00071,2023-08-08,En maintenance,12
+72,Pousse-seringue,Hervé,MT-00072,2025-04-11,En maintenance,1
+73,Respirateur,Pineau,MT-00073,2023-03-23,Actif,5
+74,Respirateur,Legrand S.A.R.L.,MT-00074,2023-06-10,En maintenance,7
+75,Pousse-seringue,Lacroix SA,MT-00075,2024-10-27,En maintenance,5
+76,Pousse-seringue,Martel,MT-00076,2024-04-02,En maintenance,13
+77,Pousse-seringue,Raynaud SARL,MT-00077,2023-08-14,Actif,1
+78,Défibrillateur,Carlier,MT-00078,2023-09-30,Actif,4
+79,Scope,Peron Faure S.A.S.,MT-00079,2024-07-01,Hors service,5
+80,Défibrillateur,Grondin,MT-00080,2025-05-27,En maintenance,2
+81,Défibrillateur,Navarro Fischer S.A.S.,MT-00081,2025-10-08,Hors service,14
+82,Scope,Briand,MT-00082,2025-05-21,En maintenance,11
+83,Respirateur,Didier S.A.S.,MT-00083,2025-07-29,Actif,6
+84,Défibrillateur,Paris Poulain et Fils,MT-00084,2024-04-27,Actif,3
+85,Scope,Bourgeois,MT-00085,2023-10-29,Actif,2
+86,Scope,Simon,MT-00086,2023-09-04,Actif,4
+87,Scope,Chrétien,MT-00087,2024-02-25,Hors service,6
+88,Respirateur,Le Roux Renault et Fils,MT-00088,2025-08-04,En maintenance,5
+89,Défibrillateur,Rossi Blot SARL,MT-00089,2024-10-23,Actif,8
+90,Défibrillateur,Olivier,MT-00090,2024-09-12,Hors service,14
+91,Scope,Le Goff Delattre et Fils,MT-00091,2025-06-30,Actif,1
+92,Défibrillateur,Merle Toussaint S.A.R.L.,MT-00092,2025-02-28,Actif,2
+93,Scope,Maréchal,MT-00093,2023-12-10,Hors service,8
+94,Respirateur,Martel,MT-00094,2025-04-19,Actif,7
+95,Respirateur,Charles,MT-00095,2025-02-26,Hors service,4
+96,Pousse-seringue,Didier,MT-00096,2024-08-29,Hors service,11
+97,Défibrillateur,Raynaud,MT-00097,2025-09-07,Hors service,13
+98,Défibrillateur,Lopes S.A.,MT-00098,2024-01-07,Hors service,11
+99,ECG,Lebrun,MT-00099,2025-12-27,En maintenance,12
+100,Respirateur,Deschamps S.A.S.,MT-00100,2026-01-11,Actif,15
+101,Défibrillateur,Léger Loiseau SARL,MT-00101,2023-05-02,Actif,5
+102,ECG,Leroux S.A.S.,MT-00102,2024-10-29,Actif,15
+103,Défibrillateur,Petitjean,MT-00103,2025-03-30,Actif,13
+104,Défibrillateur,Ferreira Pires et Fils,MT-00104,2026-01-06,En maintenance,12
+105,Défibrillateur,Pinto Dupont SA,MT-00105,2026-02-24,En maintenance,12
+106,ECG,Leblanc SA,MT-00106,2025-05-22,En maintenance,11
+107,ECG,Mallet Hubert S.A.R.L.,MT-00107,2025-01-01,Actif,10
+108,ECG,Payet,MT-00108,2023-06-16,En maintenance,7
+109,Scope,Royer,MT-00109,2025-01-29,Hors service,12
+110,Défibrillateur,Gomes,MT-00110,2026-01-17,Hors service,13
+111,ECG,Garnier Maréchal SA,MT-00111,2023-06-12,Actif,15
+112,Respirateur,De Sousa Clerc S.A.S.,MT-00112,2025-02-27,Hors service,5
+113,Scope,Aubry,MT-00113,2023-05-03,Hors service,11
+114,Pousse-seringue,Maillet Labbé SARL,MT-00114,2024-08-22,En maintenance,7
+115,ECG,Rodriguez Bousquet et Fils,MT-00115,2024-10-27,En maintenance,15
+116,Respirateur,Marie Pascal SARL,MT-00116,2025-07-14,Hors service,2
+117,Pousse-seringue,Charrier,MT-00117,2023-12-12,En maintenance,12
+118,Scope,Moreno,MT-00118,2024-06-24,Hors service,8
+119,Respirateur,Bouvet,MT-00119,2026-02-10,Actif,11
+120,Défibrillateur,Giraud S.A.R.L.,MT-00120,2024-06-13,Actif,12
+121,ECG,Maury Lacroix SARL,MT-00121,2024-05-24,Hors service,11
+122,Défibrillateur,Chauveau,MT-00122,2023-12-03,En maintenance,14
+123,Respirateur,Perrot,MT-00123,2024-07-15,Hors service,11
+124,Scope,Klein,MT-00124,2023-09-29,Hors service,3
+125,Défibrillateur,Lemaître,MT-00125,2024-02-05,En maintenance,7
+126,Défibrillateur,Guilbert SA,MT-00126,2023-05-06,En maintenance,1
+127,Respirateur,Sanchez SARL,MT-00127,2024-08-31,Hors service,14
+128,Scope,Bigot,MT-00128,2024-04-08,En maintenance,9
+129,Respirateur,Gaillard,MT-00129,2025-12-08,Actif,5
+130,ECG,Gimenez S.A.R.L.,MT-00130,2023-10-07,Hors service,7
+131,Respirateur,Delmas Benoit SA,MT-00131,2024-08-28,Actif,12
+132,Pousse-seringue,Clerc et Fils,MT-00132,2024-07-09,Hors service,15
+133,Défibrillateur,Fabre,MT-00133,2024-08-15,Actif,1
+134,Scope,Brun,MT-00134,2023-12-26,Actif,1
+135,Scope,Lopes,MT-00135,2025-01-03,Hors service,7
+136,Pousse-seringue,Ledoux,MT-00136,2025-06-20,Actif,3
+137,Scope,Thierry et Fils,MT-00137,2026-02-26,En maintenance,11
+138,ECG,Millet Poirier S.A.R.L.,MT-00138,2024-08-10,En maintenance,11
+139,Pousse-seringue,Benoit,MT-00139,2024-12-30,Actif,3
+140,ECG,Duhamel,MT-00140,2024-11-21,En maintenance,4
+141,Respirateur,Regnier et Fils,MT-00141,2023-10-27,En maintenance,1
+142,Défibrillateur,Noël SA,MT-00142,2024-06-02,En maintenance,9
+143,ECG,Leclerc,MT-00143,2025-12-05,Hors service,14
+144,Scope,Faivre SA,MT-00144,2024-06-19,Hors service,11
+145,Scope,Le Goff Pelletier SA,MT-00145,2023-11-26,Hors service,14
+146,ECG,Thierry,MT-00146,2024-02-06,Hors service,13
+147,Défibrillateur,Foucher Ferrand S.A.R.L.,MT-00147,2024-08-22,Actif,11
+148,Respirateur,Barbier SA,MT-00148,2023-07-08,En maintenance,2
+149,Respirateur,Philippe S.A.R.L.,MT-00149,2024-02-04,Actif,14
+150,ECG,Guillet,MT-00150,2024-04-08,En maintenance,7
+151,ECG,Hervé Bouvier et Fils,MT-00151,2023-08-03,Actif,9
+152,Pousse-seringue,Richard,MT-00152,2024-09-15,Hors service,2
+153,Pousse-seringue,Moreau,MT-00153,2025-03-11,En maintenance,15
+154,Scope,François SARL,MT-00154,2024-11-21,Hors service,11
+155,Pousse-seringue,Baron,MT-00155,2025-08-15,Hors service,9
+156,Respirateur,Dupuy,MT-00156,2024-08-03,En maintenance,13
+157,Respirateur,Rocher,MT-00157,2024-04-25,En maintenance,1
+158,Scope,Munoz S.A.S.,MT-00158,2024-05-30,Actif,5
+159,Pousse-seringue,Merle Gomes SARL,MT-00159,2024-10-31,En maintenance,4
+160,Défibrillateur,Louis,MT-00160,2025-12-14,En maintenance,12
+161,Pousse-seringue,Marin Joly S.A.R.L.,MT-00161,2024-04-15,En maintenance,6
+162,Scope,Joly Thomas SARL,MT-00162,2025-04-04,Hors service,12
+163,Respirateur,Carre Joubert et Fils,MT-00163,2025-12-10,Hors service,7
+164,ECG,Lagarde,MT-00164,2025-02-14,Actif,2
+165,Défibrillateur,Mahe Gérard S.A.S.,MT-00165,2025-09-19,En maintenance,7
+166,Scope,Martinez,MT-00166,2024-03-22,En maintenance,7
+167,Scope,Roux,MT-00167,2024-05-16,Hors service,15
+168,ECG,Fournier Masse SA,MT-00168,2025-01-28,Actif,9
+169,Pousse-seringue,Costa,MT-00169,2024-12-15,En maintenance,9
+170,Scope,Guillaume SARL,MT-00170,2024-03-28,En maintenance,15
+171,Pousse-seringue,Barbier,MT-00171,2025-12-04,En maintenance,14
+172,ECG,Aubry,MT-00172,2025-07-11,Actif,2
+173,Respirateur,Gay,MT-00173,2025-09-08,En maintenance,13
+174,Respirateur,Gauthier,MT-00174,2025-01-11,Hors service,6
+175,Défibrillateur,Didier,MT-00175,2025-06-27,En maintenance,1
+176,Pousse-seringue,Morin,MT-00176,2023-04-17,Actif,2
+177,Défibrillateur,Godard S.A.S.,MT-00177,2023-07-30,En maintenance,4
+178,Respirateur,Thibault Marie SARL,MT-00178,2024-01-02,Actif,9
+179,Défibrillateur,Laurent et Fils,MT-00179,2025-08-29,Actif,3
+180,Scope,Bertrand Carlier et Fils,MT-00180,2023-06-17,Actif,10
+181,Pousse-seringue,Legros Pelletier S.A.,MT-00181,2025-11-01,En maintenance,9
+182,Respirateur,Guichard Parent S.A.,MT-00182,2024-08-20,Actif,8
+183,Pousse-seringue,Gérard,MT-00183,2025-02-15,En maintenance,10
+184,Pousse-seringue,Chevallier,MT-00184,2024-05-23,En maintenance,12
+185,ECG,Laroche Prévost S.A.R.L.,MT-00185,2023-10-13,Hors service,13
+186,Défibrillateur,Martin Weber SARL,MT-00186,2024-11-21,Hors service,4
+187,Scope,Richard S.A.,MT-00187,2023-04-26,Hors service,3
+188,Scope,Collin S.A.R.L.,MT-00188,2023-09-12,En maintenance,12
+189,Respirateur,Coste,MT-00189,2025-08-15,Hors service,8
+190,Scope,Ollivier et Fils,MT-00190,2025-01-09,Actif,1
+191,Défibrillateur,Laroche,MT-00191,2023-09-28,Hors service,8
+192,ECG,Gaudin,MT-00192,2025-07-07,Actif,7
+193,Pousse-seringue,Guillou,MT-00193,2024-03-15,En maintenance,8
+194,ECG,Lemonnier SA,MT-00194,2023-08-10,Actif,2
+195,Respirateur,Courtois,MT-00195,2024-01-14,En maintenance,10
+196,Pousse-seringue,Rossi,MT-00196,2025-08-06,En maintenance,8
+197,Pousse-seringue,Germain Voisin SARL,MT-00197,2024-12-28,En maintenance,7
+198,ECG,Jacquet Legros S.A.S.,MT-00198,2024-08-18,En maintenance,8
+199,ECG,Rocher Rocher et Fils,MT-00199,2023-11-25,Actif,9
+200,Pousse-seringue,Delmas S.A.R.L.,MT-00200,2023-10-14,Hors service,11
+201,ECG,Mallet,MT-00201,2023-05-15,Actif,9
+202,Défibrillateur,Clément SARL,MT-00202,2025-05-30,Hors service,6
+203,Pousse-seringue,Thierry,MT-00203,2024-02-09,Actif,5
+204,Défibrillateur,Riou,MT-00204,2025-08-27,Hors service,5
+205,Respirateur,Boyer,MT-00205,2026-01-08,En maintenance,12
+206,Scope,Lebreton Godard S.A.,MT-00206,2023-03-23,Hors service,9
+207,Scope,Traore,MT-00207,2025-01-23,En maintenance,9
+208,Respirateur,Evrard,MT-00208,2026-01-20,En maintenance,12
+209,Respirateur,Briand SA,MT-00209,2024-07-30,Hors service,12
+210,Pousse-seringue,Marchal,MT-00210,2024-03-12,Hors service,14
+211,Scope,Dupont,MT-00211,2025-08-13,Actif,3
+212,Respirateur,Julien SA,MT-00212,2024-11-23,En maintenance,7
+213,Respirateur,Bruneau Guillaume S.A.S.,MT-00213,2024-12-26,En maintenance,1
+214,ECG,Besnard et Fils,MT-00214,2024-09-21,Hors service,6
+215,ECG,Michaud et Fils,MT-00215,2024-09-07,En maintenance,14
+216,Scope,Joly,MT-00216,2023-04-08,Actif,2
+217,Respirateur,Rocher Guibert SA,MT-00217,2024-12-30,En maintenance,15
+218,ECG,Grondin Dos Santos S.A.,MT-00218,2025-07-25,Hors service,3
+219,Respirateur,Gay S.A.S.,MT-00219,2025-09-01,Actif,5
+220,Défibrillateur,Tanguy,MT-00220,2023-08-13,Hors service,14
+221,Pousse-seringue,Fernandes,MT-00221,2023-09-06,Hors service,6
+222,Défibrillateur,Dos Santos SA,MT-00222,2023-10-22,Hors service,10
+223,Scope,Lamy,MT-00223,2025-03-18,Hors service,8
+224,Respirateur,Lacombe,MT-00224,2024-12-05,Hors service,3
+225,Défibrillateur,Michaud Gillet S.A.R.L.,MT-00225,2024-01-14,En maintenance,8
+226,Pousse-seringue,Gallet Gros S.A.S.,MT-00226,2023-05-19,En maintenance,6
+227,Scope,Gonzalez et Fils,MT-00227,2025-05-17,Actif,13
+228,Respirateur,Leroux,MT-00228,2023-10-04,Hors service,13
+229,Scope,Tanguy,MT-00229,2025-09-03,Actif,8
+230,ECG,Laroche,MT-00230,2023-10-09,Actif,14
+231,Défibrillateur,Martel Hoarau SA,MT-00231,2025-05-11,Actif,8
+232,ECG,Petitjean SARL,MT-00232,2024-09-25,Actif,10
+233,Scope,Joly Bazin SARL,MT-00233,2024-02-14,Hors service,12
+234,Respirateur,Lombard SA,MT-00234,2023-04-12,Actif,6
+235,Respirateur,Marty,MT-00235,2023-04-23,Actif,4
+236,Défibrillateur,Guillaume,MT-00236,2023-07-30,En maintenance,14
+237,Pousse-seringue,Moreau Dufour S.A.,MT-00237,2025-06-14,Hors service,2
+238,Respirateur,Peltier S.A.R.L.,MT-00238,2025-03-20,Hors service,14
+239,Défibrillateur,Becker S.A.,MT-00239,2025-03-27,Hors service,14
+240,Respirateur,Gérard,MT-00240,2025-10-26,Hors service,13
+241,Scope,Clerc S.A.,MT-00241,2024-02-24,Actif,2
+242,Défibrillateur,Humbert,MT-00242,2025-06-06,Actif,8
+243,Scope,Jacquet S.A.R.L.,MT-00243,2026-03-07,Hors service,3
+244,ECG,Dumont S.A.R.L.,MT-00244,2025-02-01,Actif,6
+245,Pousse-seringue,Jacques,MT-00245,2023-12-27,En maintenance,6
+246,ECG,Regnier,MT-00246,2023-11-10,En maintenance,8
+247,ECG,Leduc,MT-00247,2024-04-22,Actif,8
+248,Respirateur,Duval Guillaume S.A.S.,MT-00248,2025-08-30,En maintenance,15
+249,Pousse-seringue,Marie SA,MT-00249,2023-07-24,Hors service,13
+250,Défibrillateur,Legrand Coste S.A.,MT-00250,2025-01-11,Hors service,14
+251,Respirateur,Pichon S.A.S.,MT-00251,2024-07-13,Hors service,15
+252,Respirateur,Pierre,MT-00252,2024-03-07,En maintenance,13
+253,Scope,Laporte Joly S.A.,MT-00253,2023-10-24,Hors service,14
+254,Pousse-seringue,Laurent,MT-00254,2023-08-12,En maintenance,6
+255,Défibrillateur,Lombard,MT-00255,2024-10-26,Actif,4
+256,Respirateur,Roux Giraud S.A.,MT-00256,2024-09-27,Hors service,12
+257,ECG,Salmon S.A.R.L.,MT-00257,2026-01-26,En maintenance,8
+258,Pousse-seringue,Maillot,MT-00258,2024-03-18,Hors service,9
+259,Pousse-seringue,Lambert,MT-00259,2023-10-11,En maintenance,15
+260,ECG,Foucher,MT-00260,2024-07-28,Actif,11
+261,Pousse-seringue,Pasquier Laine S.A.S.,MT-00261,2024-06-01,En maintenance,10
+262,Scope,Ledoux,MT-00262,2023-06-02,Hors service,5
+263,Défibrillateur,Pelletier Bonneau SA,MT-00263,2024-11-29,Actif,7
+264,Respirateur,Carlier Besson et Fils,MT-00264,2024-06-26,En maintenance,5
+265,Scope,Noël,MT-00265,2025-07-26,Actif,3
+266,Défibrillateur,Maillet SA,MT-00266,2026-01-29,En maintenance,14
+267,Pousse-seringue,Thierry,MT-00267,2024-07-31,Actif,11
+268,Respirateur,Pinto et Fils,MT-00268,2023-04-20,En maintenance,13
+269,Respirateur,Marchand,MT-00269,2026-02-28,Hors service,5
+270,ECG,Charrier Chrétien S.A.,MT-00270,2025-04-14,Hors service,7
+271,ECG,Fontaine et Fils,MT-00271,2025-06-19,Hors service,7
+272,Scope,Guillet Dumas S.A.S.,MT-00272,2025-12-07,Hors service,5
+273,Défibrillateur,Cohen SA,MT-00273,2026-01-18,Hors service,4
+274,ECG,Auger,MT-00274,2025-08-15,Hors service,1
+275,ECG,Valette,MT-00275,2023-09-30,En maintenance,7
+276,Pousse-seringue,Caron Gauthier SARL,MT-00276,2024-10-01,Actif,10
+277,Scope,Pascal Rousset et Fils,MT-00277,2024-03-09,Hors service,5
+278,Scope,Faure Barre SARL,MT-00278,2024-09-14,En maintenance,3
+279,Scope,Moreno,MT-00279,2023-07-23,Hors service,9
+280,Scope,Samson,MT-00280,2023-03-31,En maintenance,5
+281,ECG,Brunet Jacquet S.A.S.,MT-00281,2024-12-13,Hors service,1
+282,Pousse-seringue,Bonnet,MT-00282,2023-04-09,Hors service,10
+283,Respirateur,Lombard,MT-00283,2026-02-04,Actif,7
+284,Pousse-seringue,Maury,MT-00284,2025-03-06,En maintenance,3
+285,Défibrillateur,Samson,MT-00285,2023-11-25,En maintenance,12
+286,Défibrillateur,Ribeiro Couturier S.A.,MT-00286,2023-11-02,Hors service,2
+287,Défibrillateur,Lecomte S.A.R.L.,MT-00287,2026-02-19,Actif,7
+288,Défibrillateur,Carpentier,MT-00288,2025-01-29,Hors service,2
+289,ECG,Laurent,MT-00289,2023-08-15,En maintenance,4
+290,Respirateur,Rodrigues,MT-00290,2026-02-25,En maintenance,3
+291,Défibrillateur,Perez Chartier S.A.,MT-00291,2025-09-30,En maintenance,12
+292,Respirateur,Benoit S.A.S.,MT-00292,2025-09-17,Hors service,11
+293,ECG,Gilles Lebrun S.A.,MT-00293,2023-04-25,Actif,13
+294,Respirateur,Legrand,MT-00294,2024-07-27,Actif,12
+295,Défibrillateur,Turpin SA,MT-00295,2024-11-05,Hors service,1
+296,Scope,Munoz Boulanger S.A.S.,MT-00296,2025-11-03,Actif,3
+297,Respirateur,Bouchet Millet SA,MT-00297,2025-07-27,Actif,1
+298,Scope,Brunel,MT-00298,2024-01-05,En maintenance,9
+299,Scope,Thierry,MT-00299,2025-04-18,Actif,9
+300,ECG,Baudry,MT-00300,2024-06-17,En maintenance,3

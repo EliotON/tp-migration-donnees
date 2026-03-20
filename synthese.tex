@@ -1,0 +1,206 @@
+\documentclass[12pt, a4paper]{article}
+
+% --- Configuration des paquets ---
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[french]{babel}
+\usepackage{geometry}
+\geometry{margin=2.5cm}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{xcolor}
+\usepackage{fontawesome5}
+\usepackage{graphicx} % Pour insérer un logo si besoin
+\usepackage{listings} % Pour inclure du code Python comme on le ferait en bloc Markdown
+
+% --- Configuration des blocs de code ---
+\lstset{
+    language=Python,
+    basicstyle=\ttfamily\small,
+    keywordstyle=\color{darkblue}\bfseries,
+    stringstyle=\color{medblue},
+    commentstyle=\color{gray}\itshape,
+    numbers=left,
+    numberstyle=\tiny\color{gray},
+    frame=single,
+    breaklines=true,
+    backgroundcolor=\color{gray!5},
+    showstringspaces=false,
+    extendedchars=true,
+    literate={é}{{\'e}}1 {è}{{\`e}}1 {à}{{\`a}}1 {ç}{{\c{c}}}1 {œ}{{\oe}}1 {ù}{{\`u}}1 {É}{{\'E}}1 {È}{{\`E}}1 {À}{{\`A}}1 {Ç}{{\c{C}}}1 {Œ}{{\OE}}1 {Ê}{{\^E}}1 {ê}{{\^e}}1 {î}{{\^i}}1 {ô}{{\^o}}1 {û}{{\^u}}1
+}
+
+% --- Couleurs personnalisées ---
+\definecolor{darkblue}{rgb}{0.0, 0.2, 0.4}
+\definecolor{medblue}{rgb}{0.0, 0.4, 0.7}
+
+% --- Style des titres ---
+\titleformat{\section}{\Large\bfseries\color{darkblue}}{\thesection}{1em}{}[\titlerule]
+\titleformat{\subsection}{\large\bfseries\color{medblue}}{\thesubsection}{1em}{}
+
+% --- Début du document ---
+\begin{document}
+
+% --- Page de Garde ---
+\begin{titlepage}
+    \centering
+    \vspace*{2cm}
+    {\Huge \textbf{Rapport de Projet : Migration et Gouvernance des Données}}\\[1cm]
+    {\Large \textbf{Cas d'étude n°3 : Milieu Hospitalier}}\\[2cm]
+    
+    \vfill
+    
+    \begin{minipage}{0.4\textwidth}
+        \begin{flushleft} \large
+            \emph{Auteur :}\\
+            \textbf{Eliot KONDRYC}
+        \end{flushleft}
+    \end{minipage}
+    \begin{minipage}{0.4\textwidth}
+        \begin{flushright} \large
+            \emph{Formation :}\\
+            \textbf{B3 ASRBD}\\
+            \text{Campus de Lille}
+        \end{flushright}
+    \end{minipage}
+
+    \vfill
+    {\large \today}
+\end{titlepage}
+
+% --- Sommaire ---
+\tableofcontents
+\newpage
+
+% --- Corps du document ---
+
+\section{Introduction}
+Ce document présente l'architecture, les scripts et les procédures mis en place pour le projet de gestion, nettoyage, et migration des données hospitalières. Ce projet s'inscrit dans une démarche de fiabilisation des données critiques.
+
+\section{\faCog \ Environnement Technique}
+L'ensemble du projet a été développé sous un environnement moderne garantissant la portabilité et la répétabilité des tests.
+\begin{itemize}[label=\textbullet]
+    \item \textbf{Langage} : Python 3.13
+    \item \textbf{Base de données} : MariaDB (Conteneurisée via Docker)
+    \item \textbf{Bibliothèques clés} : 
+    \begin{itemize}
+        \item \texttt{pandas} : Analyse et transformation massive.
+        \item \texttt{pymysql} : Interface de communication SQL.
+        \item \texttt{faker} : Mocking de données pour les tests de charge.
+    \end{itemize}
+\end{itemize}
+
+\section{\faDocker \ Infrastructure de Données}
+\subsection{Conteneurisation (Docker Compose)}
+Au lieu d'une installation locale polluante pour le système hôte, une approche par **conteneurisation** a été privilégiée. Le service utilise une image \texttt{mariadb:10.11}. 
+\begin{quote}
+    \textbf{Commande de déploiement :} \texttt{docker compose up -d}
+\end{quote}
+Le port \texttt{3306} est exposé pour permettre aux scripts Python d'interagir directement avec l'instance de production ou de test.
+
+\section{\faPython \ Logique de Migration et Traitements}
+
+\subsection{Génération du Dataset (\texttt{generate\_data.py})}
+Ce module assure la création d'un jeu de test cohérent. 
+\begin{itemize}
+    \item \textbf{Règles métiers :} Unicité des numéros de série (format \texttt{MT-XXXXX}), exclusion des dates d'intervention futures.
+    \item \textbf{Traçabilité :} Un fichier \texttt{log.txt} est généré systématiquement pour valider l'intégrité des fichiers CSV produits.
+\end{itemize}
+
+\subsection{Processus de Migration (\texttt{migration.py})}
+C'est le cœur du système de transfert. Il opère une fusion intelligente entre différentes sources (\texttt{v1} et \texttt{v2}) tout en normalisant les noms de colonnes. Les doublons sont filtrés via \texttt{Pandas} avant l'injection SQL.
+
+\subsection{Reprise d'anomalies (\texttt{reprise.py})}
+Ce script fait office de \textbf{file d'attente de quarantaine}. Il nettoie les données corrompues (prix négatifs, formats de dates erronés) et isole les erreurs fatales dans une table spécifique pour expertise humaine.
+
+\section{\faSearch \ Audit et Validation (\texttt{validate.py})}
+La phase finale consiste en un audit automatisé vérifiant :
+\begin{enumerate}
+    \item La cohérence volumétrique entre CSV et SQL.
+    \item L'absence de doublons au niveau des contraintes de clés primaires.
+    \item L'intégrité référentielle (pas d'interventions "orphelines").
+\end{enumerate}
+
+\section{Explication des scripts de migration et gestion des données}
+
+Le projet s'articule autour de quatre scripts Python principaux, chacun ayant un rôle précis dans le cycle de vie, la migration et la validation des données au sein de la base de données MariaDB (\texttt{cas3\_hopital}).
+
+\subsection{Génération des données (\texttt{generate\_data.py})}
+Ce script est responsable de la création du jeu de données initial simulant l'environnement de l'hôpital en utilisant des bibliothèques poussées comme \texttt{Faker} et \texttt{pandas}.
+
+Voici un exemple illustrant la génération aléatoire automatisée pour les établissements :
+\begin{lstlisting}
+def generate_etablissements(num_rows):
+    data = []
+    types_etab = ['Clinique', 'Centre médical', 'CHU', 'EHPAD']
+    for i in range(1, num_rows + 1):
+        data.append({
+            "id_etablissement": i,
+            "nom": fake.company() + " Santé",
+            "adresse": fake.street_address(),
+            "ville": fake.city(),
+            "type": random.choice(types_etab)
+        })
+    df = pd.DataFrame(data)
+    df.to_csv("data_3/etablissements.csv", index=False)
+\end{lstlisting}
+
+\subsection{Migration et Nettoyage (\texttt{migration.py})}
+C'est le script principal d'intégration des données dans la base de production. Avant l'insertion en BDD, on effectue une fusion et un nettoyage des données (ETL).
+
+Extrait montrant la gestion des équipements (fusion des listes V1 et V2 et suppression des doublons sur l'ID) :
+\begin{lstlisting}
+def process_equipements(cursor, filepath_v1, filepath_v2):
+    df1 = pd.read_csv(filepath_v1)
+    df2 = pd.read_csv(filepath_v2)
+    
+    # Transformation V2 pour avoir le même format que la V1
+    mapping = {"ref": "id_equipement", "designation": "type", "fabricant": "marque"}
+    df2_transformed = df2.rename(columns=mapping)
+    
+    # Fusion des deux datasets et suppression des doublons
+    df = pd.concat([df1, df2_transformed], ignore_index=True)
+    df = df.drop_duplicates(subset=['id_equipement'])
+    
+    # ... on vérifie l'intégrité et on insère en BDD ...
+\end{lstlisting}
+
+\subsection{Validation Post-Migration (\texttt{validate.py})}
+Ce script intervient après la migration pour s'assurer de la qualité et de la cohérence des données intégrées en exécutant des requêtes SQL.
+
+Voici comment on automatise la vérification de l'intégrité référentielle (pour s'assurer qu'il n'y a aucun orphelin) :
+\begin{lstlisting}
+    queries_relations = [
+        ("Equipements -> Etablissements", 
+         "SELECT COUNT(*) FROM equipements e LEFT JOIN etablissements et ON e.id_etablissement = et.id_etablissement WHERE et.id_etablissement IS NULL"),
+        # ...
+    ]
+    
+    for label, query in queries_relations:
+        orphelins = fetch_single_value(cursor, query)
+        statut = "OK" if orphelins == 0 else f"VIOLATION ({orphelins} enregistrements)"
+\end{lstlisting}
+
+\subsection{Reprise des anomalies (\texttt{reprise.py})}
+Ce script est conçu pour corriger spécifiquement le fichier contenant des erreurs en testant et modifiant activement les champs de manière autonome.
+
+Voici le cas pratique où on corrige automatiquement un prix de manière conditionnelle :
+\begin{lstlisting}
+        try:
+            prix_float = float(prix)
+            if prix_float < 0:
+                # CORRECTION : on ramène le prix négatif en prix positif (erreur de signe probable)
+                final_prix = abs(prix_float)
+                is_corrected = True
+            elif prix_float == 0:
+                erreurs.append("Le prix ne peut être égal à 0")
+        except ValueError:
+            erreurs.append(f"Prix non numérique ({prix})")
+\end{lstlisting}
+
+
+\section{Conclusion}
+Ayant un parcours en \textbf{BTS SIO option SLAM}, la logique algorithmique et la manipulation de bases de données sont des concepts que je maîtrise depuis deux ans. Ce projet a permis de mettre en application ces compétences dans un contexte de gouvernance de données plus rigoureux.
+
+\end{document}
